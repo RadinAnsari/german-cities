@@ -1,6 +1,6 @@
 # 🇩🇪 Germany Cities Lookup
 
-A simple Node.js package that provides a list of cities in German provinces (Bundesländer).  
+A  Node.js package that provides a list of cities in German provinces (Bundesländer).  
 
 ## 🚀 Features
 - Get all cities of a specific province in Germany.
