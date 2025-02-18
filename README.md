@@ -76,5 +76,5 @@ For major changes, please open an **issue** first to discuss what you'd like to 
 ---
 
 ## 📬 Contact
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [yourusername](https://github.com/RadinAnsari)
+- Email: gently.crow@gmail.com
