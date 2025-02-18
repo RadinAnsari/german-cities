@@ -1,0 +1,220 @@
+{
+    "Germany": {
+        "provinces": [
+            {
+                "name": "Bayern",
+                "cities": [
+                    "München",
+                    "Nürnberg",
+                    "Augsburg",
+                    "Regensburg",
+                    "Würzburg",
+                    "Ingolstadt",
+                    "Fürth",
+                    "Erlangen",
+                    "Bamberg",
+                    "Bayreuth"
+                ]
+            },
+            {
+                "name": "Baden-Württemberg",
+                "cities": [
+                    "Stuttgart",
+                    "Karlsruhe",
+                    "Mannheim",
+                    "Freiburg",
+                    "Heidelberg",
+                    "Ulm",
+                    "Pforzheim",
+                    "Reutlingen",
+                    "Heilbronn",
+                    "Ludwigsburg"
+                ]
+            },
+            {
+                "name": "Nordrhein-Westfalen",
+                "cities": [
+                    "Köln",
+                    "Düsseldorf",
+                    "Dortmund",
+                    "Essen",
+                    "Bonn",
+                    "Duisburg",
+                    "Bochum",
+                    "Wuppertal",
+                    "Bielefeld",
+                    "Münster"
+                ]
+            },
+            {
+                "name": "Hessen",
+                "cities": [
+                    "Frankfurt am Main",
+                    "Wiesbaden",
+                    "Darmstadt",
+                    "Kassel",
+                    "Gießen",
+                    "Marburg",
+                    "Fulda",
+                    "Offenbach",
+                    "Hanau",
+                    "Rüsselsheim"
+                ]
+            },
+            {
+                "name": "Sachsen",
+                "cities": [
+                    "Dresden",
+                    "Leipzig",
+                    "Chemnitz",
+                    "Zwickau",
+                    "Plauen",
+                    "Görlitz",
+                    "Freiberg",
+                    "Bautzen",
+                    "Pirna",
+                    "Radebeul"
+                ]
+            },
+            {
+                "name": "Niedersachsen",
+                "cities": [
+                    "Hannover",
+                    "Braunschweig",
+                    "Oldenburg",
+                    "Osnabrück",
+                    "Göttingen",
+                    "Wolfsburg",
+                    "Hildesheim",
+                    "Salzgitter",
+                    "Lüneburg",
+                    "Celle"
+                ]
+            },
+            {
+                "name": "Rheinland-Pfalz",
+                "cities": [
+                    "Mainz",
+                    "Ludwigshafen",
+                    "Koblenz",
+                    "Trier",
+                    "Kaiserslautern",
+                    "Worms",
+                    "Speyer",
+                    "Neuwied",
+                    "Idar-Oberstein",
+                    "Frankenthal"
+                ]
+            },
+            {
+                "name": "Sachsen-Anhalt",
+                "cities": [
+                    "Magdeburg",
+                    "Halle (Saale)",
+                    "Dessau-Roßlau",
+                    "Wittenberg",
+                    "Stendal",
+                    "Merseburg",
+                    "Bitterfeld-Wolfen",
+                    "Bernburg",
+                    "Naumburg",
+                    "Halberstadt"
+                ]
+            },
+            {
+                "name": "Thüringen",
+                "cities": [
+                    "Erfurt",
+                    "Jena",
+                    "Gera",
+                    "Weimar",
+                    "Eisenach",
+                    "Gotha",
+                    "Nordhausen",
+                    "Suhl",
+                    "Altenburg",
+                    "Ilmenau"
+                ]
+            },
+            {
+                "name": "Brandenburg",
+                "cities": [
+                    "Potsdam",
+                    "Cottbus",
+                    "Brandenburg an der Havel",
+                    "Frankfurt (Oder)",
+                    "Oranienburg",
+                    "Eberswalde",
+                    "Neuruppin",
+                    "Senftenberg",
+                    "Schwedt",
+                    "Bernau"
+                ]
+            },
+            {
+                "name": "Mecklenburg-Vorpommern",
+                "cities": [
+                    "Schwerin",
+                    "Rostock",
+                    "Neubrandenburg",
+                    "Stralsund",
+                    "Greifswald",
+                    "Wismar",
+                    "Güstrow",
+                    "Schwedt",
+                    "Anklam",
+                    "Parchim"
+                ]
+            },
+            {
+                "name": "Saarland",
+                "cities": [
+                    "Saarbrücken",
+                    "Neunkirchen",
+                    "Homburg",
+                    "Völklingen",
+                    "St. Ingbert",
+                    "Merzig",
+                    "Sankt Wendel",
+                    "Blieskastel",
+                    "Dillingen",
+                    "Lebach"
+                ]
+            },
+            {
+                "name": "Schleswig-Holstein",
+                "cities": [
+                    "Kiel",
+                    "Lübeck",
+                    "Flensburg",
+                    "Neumünster",
+                    "Elmshorn",
+                    "Norderstedt",
+                    "Pinneberg",
+                    "Wedel",
+                    "Bad Oldesloe",
+                    "Ahrensburg"
+                ]
+            },
+            {
+                "name": "Hamburg",
+                "cities": [
+                    "Hamburg"
+                ]
+            },
+            {
+                "name": "Berlin",
+                "cities": [
+                    "Berlin"
+                ]
+            },
+            {
+                "name": "Bremen",
+                "cities": [
+                    "Bremen",
+                    "Bremerhaven"
+                ]
+            }
+        ]
+    }
+}
